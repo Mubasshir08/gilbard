@@ -1,3 +1,7 @@
+/* intializing font (Saira Stencil One, Nova Round) */
+@import url('https://fonts.googleapis.com/css2?family=Nova+Round&family=Saira+Stencil+One&display=swap');
+
+/* intializing tailwind */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
