@@ -1,0 +1,38 @@
+[
+    {
+        "title" : "the elder scroll",
+        "os"    : "pc/xbox/ps4",
+        "pic"   : "game1.png",
+        "row"   : 1
+    },
+    {
+        "title" : "the elder scroll",
+        "os"    : "pc/xbox/ps4",
+        "pic"   : "game2.png",
+        "row"   : 1
+    },
+    {
+        "title" : "the elder scroll",
+        "os"    : "pc/xbox/ps4",
+        "pic"   : "game3.png",
+        "row"   : 1
+    },
+    {
+        "title" : "the elder scroll",
+        "os"    : "pc/xbox/ps4",
+        "pic"   : "game4.png",
+        "row"   : 2
+    },
+    {
+        "title" : "the elder scroll",
+        "os"    : "pc/xbox/ps4",
+        "pic"   : "game5.png",
+        "row"   : 2
+    },
+    {
+        "title" : "the elder scroll",
+        "os"    : "pc/xbox/ps4",
+        "pic"   : "game6.png",
+        "row"   : 2
+    }
+]
