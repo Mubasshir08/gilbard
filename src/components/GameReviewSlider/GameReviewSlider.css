@@ -1,0 +1,12 @@
+.swiper-button-prev::after{
+    font-size: 20px !important;
+    color: white;
+}
+.swiper-button-next::after{
+    font-size: 20px !important;
+    color: white;
+}
+
+:root {
+    --swiper-theme-color: white !important;;
+}

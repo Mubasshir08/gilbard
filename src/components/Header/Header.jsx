@@ -24,7 +24,7 @@ function Header(props) {
             </div>
            <div className='flex flex-col mt-8'>
                 {
-                    Data.map((game) => <img src= {require(`../../assets/images/${game.pic}`)} alt = "gamePic" className='w-2/3 mx-auto my-5'/>)
+                    Data.map((game) => <img src= {require(`../../assets/images/${game.pic}`)} alt = "gamePic" className='w-[90%] mx-auto my-5'/>)
                 }
             </div> 
         </header>
