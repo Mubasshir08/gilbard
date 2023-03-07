@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import GameReview from './components/GameReview/GameReview';
 import GameReviewSlider from './components/GameReviewSlider/GameReviewSlider';
 import Header from './components/Header/Header';
 import Navbar from './components/Navbar/Navbar';
@@ -12,6 +13,7 @@ function App() {
         <Header />
         <NewGames />
         <GameReviewSlider />
+        <GameReview />
     </div>
   );
 }
