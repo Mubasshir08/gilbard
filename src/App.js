@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
-import GameReview from './components/GameReview/GameReview';
-import GameReviewSlider from './components/GameReviewSlider/GameReviewSlider';
 import Header from './components/Header/Header';
 import Navbar from './components/Navbar/Navbar';
 import NewGames from './components/NewGames/NewGames';
+import GameReviewSlider from './components/GameReviewSlider/GameReviewSlider';
+import GameReview from './components/GameReview/GameReview';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <NewGames />
         <GameReviewSlider />
         <GameReview />
+        <Footer />
     </div>
   );
 }
