@@ -17,7 +17,7 @@ function Footer(props) {
                  <li> <a href="/"> support </a>  </li>
                  <li> <a href="/"> terms & conditions </a> </li>   
             </ul>    
-                <p className='absolute bottom-1 text-xs left-[8.2rem]'>Copyright &copy;2023</p>
+                <p className='absolute bottom-1 text-xs left-[4.8rem]'>Copyright &copy;2023. All rights reserved.</p>
         </div>
     );
 }
