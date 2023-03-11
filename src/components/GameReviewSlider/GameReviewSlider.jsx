@@ -46,8 +46,8 @@ function GameReviewSlider(props) {
 });
   },[])
     return (
-        <div className="container mb-10">
-            <div className='swiper w-[90%]'>
+        <div className="container mb-10 lg:mx-auto">
+            <div className='swiper w-[90%] lg:w-1/2'>
                     <div className="swiper-wrapper">
 
                     <div className="swiper-slide"><img src= {SlideImg1} alt="" className='w-full'/></div>

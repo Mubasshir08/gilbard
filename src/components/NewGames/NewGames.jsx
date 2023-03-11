@@ -8,7 +8,7 @@ function NewGames(props) {
         <div>
             <h1 className='text-[#252525] text-center text-lg'> <span className='text-[#061DA4]'> new </span> games</h1>
             <section>
-                <div>
+                <div className='lg:flex lg:flex-row lg:justify-center'>
                     {
                         Data.map((game) => {
                             if(game.row === 1){
@@ -21,7 +21,7 @@ function NewGames(props) {
                         })
                     }
                  </div>
-                <div>
+                <div className='lg:flex lg:flex-row lg:justify-center'>
                 {
                         Data.map((game) => {
                             if(game.row === 2){
