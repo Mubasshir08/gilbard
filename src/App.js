@@ -5,6 +5,7 @@ import Navbar from './components/Navbar/Navbar';
 import NewGames from './components/NewGames/NewGames';
 import GameReviewSlider from './components/GameReviewSlider/GameReviewSlider';
 import GameReview from './components/GameReview/GameReview';
+import Subscription from './components/Subscription/Subscription';
 import Footer from './components/Footer/Footer';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <NewGames />
         <GameReviewSlider />
         <GameReview />
+        <Subscription />
         <Footer />
     </div>
   );
