@@ -6,7 +6,7 @@ import Data from '../../assets/JsonData/newGames.json';
 function NewGames(props) {
     return (
         <div>
-            <h1 className='text-[#252525] text-center text-lg'> <span className='text-[#061DA4]'> new </span> games</h1>
+            <h1 className='text-[#252525] text-center text-lg lg:text-left lg:pl-36'> <span className='text-[#061DA4]'> new </span> games</h1>
             <section>
                 <div className='lg:flex lg:flex-row lg:justify-center'>
                     {
